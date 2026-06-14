@@ -1,4 +1,4 @@
 #Biblioteca Digital
 Sistema de gerenciamento de livros e usuários
 
-1-Simulando comflito.
+2-Simulando comflito 2.0
